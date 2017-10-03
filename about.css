@@ -1,0 +1,43 @@
+body, html{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    background: #990000;
+}
+#container {
+  background: black;
+  border: 2px solid gray;
+  margin: 5px;
+  padding: 2px;
+  min-height: 97%;
+  height: 97%;
+}
+
+p {
+  color: white;
+}
+
+#header {
+  color: white;
+}
+
+#content-container {
+  background: white;
+  color: black;
+  margin: 20px;
+}
+
+#content {
+  background: white;
+  min-height: 90%;
+  border: 2px solid black;
+}
+
+
+
+.title {
+  color: black;
+}
